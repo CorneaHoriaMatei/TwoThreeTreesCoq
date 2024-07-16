@@ -1,0 +1,5 @@
+DIGEST 36ac0dc33ec9ac25ba26e564b28a52f0
+FTTtree.TTtreeProofs
+R15:17 Coq.Init.Nat <> <> lib
+R35:38 Coq.Lists.List <> <> lib
+R48:60 Coq.Lists.List ListNotations <> mod
